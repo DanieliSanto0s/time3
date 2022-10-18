@@ -5,6 +5,6 @@
    
     $total = $tvalor * $thoras + $tgrat;
     
-    echo "O valor total é: ", + $total, " Reais" ;
+    echo "O resultado é: ", + $total, " Reais" ;
 
 ?>
